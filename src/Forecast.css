@@ -9,8 +9,8 @@ width: 150px;
 margin-top: 10px;
 margin-bottom: 20px;
 transition: all 200ms ease;
-opacity: 0.8;
-
+opacity: 0.98;
+background: #78d9e0d8;
 border: none !important;
 }
   
@@ -35,6 +35,7 @@ border: none !important;
     font-size: 15px;
     font-weight: 500;
     text-align: center;
+    
   }
   
   
