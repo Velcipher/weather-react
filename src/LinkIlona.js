@@ -9,13 +9,13 @@ export default function LinkIlona (){
           href="https://github.com/Velcipher/weather_app_vanilla"
           target="_blank"
           rel="noreferrer"
-          >GitHub</a>
+          > GitHub </a>
         and hosted on
         <a
           href="https://app.netlify.com/sites/cool-empanada-6e1517/overview"
           target="_blank"
           rel="noreferrer"
-          >Netlify</a></span>
+          > Netlify </a></span>
   </div>
   )
 }

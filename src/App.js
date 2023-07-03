@@ -10,7 +10,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container-fluid">
-        <SearchWeather defaultCity="Kyiv" />
+        <SearchWeather defaultCity="Montreal" />
       </div>
       <LinkIlona/>
     </div>
